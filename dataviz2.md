@@ -2,19 +2,19 @@
 # Visualizing Government Debt
 
 
-## Greece has the Highest Debt in 2019
+## Bar Graph (Taken from the data source)
 <iframe src="https://data.oecd.org/chart/6gP8" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gP8" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
-## Government Debt Goes up and Rarely Down
+## Grid of Line Charts
 <div class="flourish-embed flourish-chart" data-src="visualisation/5296291"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-## Greece and Japan Race to get the Highest Dept-to-GDP Ratio
+## Scatter Graph
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5296701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Compare and Contrast
 
-The first visualization is too focused on one aspect of the data. It does not tell that much of a story. The first graph simplifies the data. The second graph has a lot of information. It tells a lot of stories. It is also very busy and the viwer does not know where to look at. Furthermore, a viewer cannot gain insight from an individual graph as it is too small. The third graph shows specific data about each year which is what can be achieved in graph 1, but it can also show every year which is what graph 2 achieves. Furthermore, if the viewer slides the year slider, they can see how the ratio changes yearly. Then it can be very evident that there are two countries racing to get a higher dept-to-GDP ratio; Japan and Greece. I like the third graph because it has a story to tell. 
+The bar graph is too focused on one aspect of the data. It does not tell that much of a story it just shows the data. The first graph simplifies the data as it does not show how the debt evolves yearly. The second graph has a lot of data. It is very busy and the viewer does not know where to look at. Very difficult to know the purpose of the graph when there are a lot of aspects. Furthermore, a viewer cannot gain insight from an individual graph in the grid as individual graphs are too small. Both of these graphs do not have a story to tell. 
 
-Having said that, I still find some problems with the third chart that I have not been able to figure out how to fix using flourish. For example, I wanted to give the two highlighted countries a contrasting color. This will help eliminate unnecessary eye travel to see which dots belong to Japan and Greece. However, when the viewer drags the mouse over the dot in question they do get a summary of info about it which does help eliminate unnecessary eye travel between both x and y axis.
+The scatter graph shows specific data about each year which is what can be achieved in the bar graph, but it can also show every year which is what grid of line charts achieves. Furthermore, if the viewer slides the year slider, they can see how the ratio changes yearly. Then it can be very evident that there are two countries racing to get a higher dept-to-GDP ratio; Japan and Greece. They both have a high increase in debt but this implies different things in each country. While high debt is bad, Greece's debt leaves it worse off than Japan even though Japan's debt is higher. This is because Greece owes foreign creditors while Japans owes its citizens. Since these two countries are what the story focuses on, they were both given contrasting colors while other countries are greyed down. Greece was given orange as it is in a more danger zone than Japan which was given green. The contrasting colors save time as the user can find the countries in question faster. Furthermore, there is a lable of the ratio and country name which comes up when the mouse goes over the dot to eliminate unnecessary eye travel. Most importantly, the scatter graph tells a story. 
