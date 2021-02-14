@@ -17,6 +17,6 @@ My name is Buthayna AlMulla (she/her) and I am a MISM student enrolled in the Te
 I will add all my visualizations in this section
 
 [Visualizing Government Debt (click for design analysis)](/dataviz2.md)
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5296701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5259400"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
