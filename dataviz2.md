@@ -7,3 +7,8 @@
 
 ## Government Debt Goes up and Rarely Down
 <div class="flourish-embed flourish-chart" data-src="visualisation/5296291"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+## Greece and Japan Race to get the Highest Dept-to-GDP Ratio
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5296701"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
