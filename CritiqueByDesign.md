@@ -15,3 +15,6 @@ What I would do differently is first limit the number of stories told by two. Tw
 
 What I would do is show the proportion of people with different levels of support. This visualization would show that only 66% of people are willing to get vaccinated which is less than the requirement of 70% or 80% to achieve herd immunity. For the second visualization, I will list the concerns and the percentage of people concerned about each. The second visualization will aim to show data on them in order to inform people in decision making on the most prominent concerns so that addressing them would be prioritized, and more people would be convinced to get vaccinated.  
 
+## Solution WireFrame
+![SolutionWireframe](SolutionWireframe.jpg)
+
