@@ -1,6 +1,6 @@
 # Critique By Design
 
-[Click here to view the design for this critique](https://www.visualcapitalist.com/visualizing-global-attitudes-towards-covid-19-vaccines/)
+[Click here to visit the link the of the visualization to be critiqued](https://www.visualcapitalist.com/visualizing-global-attitudes-towards-covid-19-vaccines/)
 
 ## Critique
 ### Critique was submitted in the form of a survey, here is a portion of the critique
@@ -17,4 +17,14 @@ What I would do is show the proportion of people with different levels of suppor
 
 ## Solution WireFrame
 ![SolutionWireframe](SolutionWireframe.jpg)
+
+
+## Testing the solution
+blablabla
+
+## Building the solution
+
+This is the visualization to be critiqued.
+![OriginalVisualization](OriginalVisualization.jpg)
+(Source: Jones. K. (2021) Visualizing Global Attitudes Towards the COVID-19 Vaccines. Retrieved from: https://www.visualcapitalist.com/visualizing-global-attitudes-towards-covid-19-vaccines/ )
 
