@@ -82,6 +82,13 @@ After picking the visualization, I started the critique. The critique process he
 
 I deduced that the most important purpose of the visualization is to relay the message that the percentage of people willing to get vaccinated is below the percentage necessary to gain herd immunity. This information alone is useless, and I thought it must be followed by data that would help guide the discussion to solve this problem. For the next visualization, I decided to list the concerns people gave alongside the percentage of people who had those concerns. In the second visualization I also wanted to highlight all the concerns for vaccine supporters and vaccine hesitants. This is because these two groups together make 78% of the population. Therfore, if the concerns were all addressed in order of priority, then more people are likely to be convinced to take the vaccine. The wireframes were created based on this idea. 
 
+I then did some user testing on my sisters. I gained some important insight that gave me ideas on how to further improve the visualizations. This also made me aware of some vagueness in my visualizations. I realized that in the journey to simplify the original visualization, I ended up oversimplifying the visualizations. The main analysis from user testing can be found in the user testing section. 
+
+These are the redesigned visualizations. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360243"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360353"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+The main aspect I worked on is simplifying the visualization. I thought the orignal was very busy and told so many stories at once, which made it very hard to distinguish the purpose of the graph. I picked one story that I found and used the data to create two simple visualization that can tell it more clearly. 
+
+The purpose of the graph is to 
