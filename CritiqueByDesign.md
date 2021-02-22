@@ -38,5 +38,5 @@ After picking the visualization, I started the critique. The critique process he
 I deduced that the most important purpose of the visualization is to relay the message that the percentage of people willing to get vaccinated is below the percentage necessary to gain herd immunity. This information alone is useless, and I thought it must be followed by data that would help guide the discussion to solve this problem. For the next visualization, I decided to list the concerns people gave alongside the percentage of people who had those concerns. In the second visualization I also wanted to highlight all the concerns for vaccine supporters and vaccine hesitants. This is because these two groups together make 78% of the population. Therfore, if the concerns were all addressed in order of priority, then more people are likely to be convinced to take the vaccine. The wireframes were created based on this idea. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360243"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/5360353"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
