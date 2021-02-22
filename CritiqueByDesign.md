@@ -31,12 +31,10 @@ Notes from interview 1: When I put 100 I meant percentages but the viewer though
 
 Notes from interview 2: I just realized that the naming of each level of support is confusing. I took the names from the source which was much more informative. Now that I simplified it, the naming alone without context does not make any sense. I will edit the name of each level of support. I will make sure I label correctly. Also, I will edit the part that highlights the concerns of 78% of people. I meant to highlight all the concerns from the 78% people with higher support. This is so the decision maker can prioratise them in order to achieve herd immunity. I will try to make sure that this is clear. 
 
+The main aspect I worked on is simplifying the visualization. I thought the orignal was very busy and told so many stories at once, which made it very hard to distinguish the purpose of the graph. I picked one story that I found and used the data to create two simple visualization that can tell it more clearly. I focused the purpose of the visualization on showing that the amount of people who are willing to get vaccinated is not enough to achieve herd immunity. Then I continued the story by creating a seperate graph that showcases the concerns and the percentage of people who have them. I wanted to highlight all the concerns that the supportive people had. This is because if those are addressed, and everyone who had some level of vaccine support decided to get vaccinated, herd immunity would be achieved. 
 
 These are the redesigned visualizations. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360243"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360353"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-The main aspect I worked on is simplifying the visualization. I thought the orignal was very busy and told so many stories at once, which made it very hard to distinguish the purpose of the graph. I picked one story that I found and used the data to create two simple visualization that can tell it more clearly. 
-
-The purpose of the graph is to 
