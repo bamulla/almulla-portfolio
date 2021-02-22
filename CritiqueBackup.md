@@ -1,4 +1,4 @@
-#Critique Backup
+# Critique Backup
 
 ## Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?  *
 
