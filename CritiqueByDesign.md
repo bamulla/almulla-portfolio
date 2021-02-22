@@ -42,16 +42,33 @@ The intended audience for this could be the health ministery officials that need
 - Is there anything you would change or do differently?
 I would specify the number for herd immunity. I would also add a grid. And change the colors of the bars to improve visuals. 
 
+The End
+
+Notes from interview: When I put 100 I meant percentages. I was unaware that other people might think that this refers to the level of support. To solve this issue I will label the percentage better. Also, I will put up a legend for the level of support and use colors to signify the amount of support. 
+I found it weird that this viewer, when looking at graph 2 notes the bottom concerns not the top. I wanted to highlight the top 4, so I will make sure they are better highlighted. 
+
 person 2:
 - Can you tell me what you think this is?
+Looks like a graph about the vaccine support and concerns about the vaccine
+
 
 - Can you describe to me what this is telling you?
+Not enough people are willing to take the vaccine in order to achieve herd immunity. Also it lists the concerns but I am unsure what the bar represents. 
 
 - Is there anything you find surprising or confusing?
 
+The labels of the bargraph in graph 1 are very confusing. What does Vaccine hesitant mean? Also, in graph 2, What does concerns of 78% of the people mean? Why is it in the graph? 
+
 - Who do you think is the intended audience for this?
 
+Anyone who is interested
+
 - Is there anything you would change or do differently?
+Add more lables to the axis. It can be confusing and requires a lot of gussing on my part. Also elaborate on what concerns of 78% of people means. 
+
+The End
+
+Noted from interview: I just realized that the naming of each level of support is confusing. I took the names from the source which was much more informative. Now that I simplified it, the naming is weird. I will edit the name of each level of support. I will make sure I label correctly. Also, I will edit the part that highlights the concers of 78% of people. I meant to highlight all the concerns from the 78% people with higher support. This is so the decision maker can prioratise them in order to achieve herd immunity. I will try to make sure that this is clear. 
 
 ## Building the solution
 
