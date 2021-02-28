@@ -6,7 +6,7 @@ I am interested in looking into whether or not it is possible for a person or a 
 ### Structure
 What I want to achieve in inciting anger in the viewer. To show that rich companies have no reason to underpay their workers. I want to persuade people that paying people a living wage is an affordable right that rich companies greedly choose to ignore. This is because right now with talks of raising the minimum wage some people are surprisingly against it and it does not make any sense. 
 
-First I want to capture the viewers attention by highlighting the importance of the topic. This can be done by showing data about how much work the minium wage laborer must do in order to be able to afford living. 
+First I want to capture the viewers attention by highlighting the importance of the topic. This can be done by showing data about how much work the minium wage laborer must do in order to be able to afford living. This section will try to capture user's empathy. This part will also show that these are not lazy people.
 
 Then I will create a visualization of data that estimates how much it would cost for the company to pay these workers a livable wage, and fix any other unethical practise they have been a part of. 
 
@@ -32,4 +32,4 @@ First I will collect data about California's minimum wage workers, I will focus 
 
 
 ## Plan for Project Completion
-I can create the graphs using flourish and put them together in a website. Depending on how I plan to design the website I could use github for it, or design my own using html/css and maybe bootstrap. 
+I can create the graphs using flourish and put them together in a website. If I find the graphs are in need of more depth I will switch to tableau. I plan to design the website I could use github for it, however, if the design escalates to be more complex than what github can offer I can design my own using html/css and maybe bootstrap. 
