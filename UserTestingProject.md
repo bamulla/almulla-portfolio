@@ -1,6 +1,7 @@
 # User Testing for Project
 
 ## person 1
+note that this person viewed it on the phone so it was small
 
 ### Can you tell me what you think this is?
 
@@ -24,7 +25,7 @@ The quality of the poster is bad i cannot see small words in the graphs. And fig
 
 
 ## person 2
-
+This person viewed it on phone
 ### Can you tell me what you think this is?
 
 Amazon's role in total carbon emission
@@ -44,5 +45,26 @@ Make wage chart more clear
 ### Do you have any other comment?
 No
 
+
+## person 3
+This person viewed it on laptop. 
+### Can you tell me what you think this is?
+
+This is a poster about Amazon and its bad ethics
+
+### Can you describe to me what this is telling you?
+Amazon is not ethical. It does not pay its employees enough and amazon can offset emissions by planting trees. 
+
+### Is there anything you find surprising or confusing?
+What I find surprising is that the graph is talking about two issues. I do not think it makes sense for them to be together. Also one story is told better than the other. Also the tree icon makes no sense. What does it even say? 
+
+### Who do you think is the intended audience for this?
+People interested in Amazon's ethics
+
+### Is there anything you would change or do differently?
+Color mismatch. It just looks weak, it is not a powerful visualization. The message deserves better than this. 
+
+### Do you have any other comment?
+No
 
 
