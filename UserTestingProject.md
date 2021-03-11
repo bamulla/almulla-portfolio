@@ -68,3 +68,27 @@ Color mismatch. It just looks weak, it is not a powerful visualization. The mess
 No
 
 
+## person 3
+This person viewed it on laptop. 
+### Can you tell me what you think this is?
+
+This is an advertising or presentation for a petition
+
+### Can you describe to me what this is telling you?
+It is telling me that Amazon is not fair towards its workers, and not taking environmental responsibility as well.
+
+### Is there anything you find surprising or confusing?
+I think The environment bar is caught between two visuals talking about wage, so I am confused with the logic there
+
+### Who do you think is the intended audience for this?
+Someone interested in social questions? Especially Labor Economics related issues? Or someone who really hates big companies.
+
+### Is there anything you would change or do differently?
+I would try to do a comparison with some other companies or a baseline company to show that Amazon is doing really bad at its social responsibilities.
+
+### Do you have any other comment?
+The general storyline still feels a little unclear. If there will be more elements added into this presentation, maybe consider try to figure out a clearer logic line for the presentation.
+Also, the cost of living plot shows the breakdown of living cost. Although I feel like the presentation doesn't really need the breakdown details.
+
+
+
