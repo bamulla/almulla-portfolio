@@ -42,7 +42,7 @@ I think the story should be on the laptop. I will design it to look good on the 
 ### problem 5: Clarity
 Users commented that the story was unclear
 
-### solution 4: 
+### solution 5: 
 I will try to fix that problem, and do more user testing to ensure this problem is solved. 
 
 
