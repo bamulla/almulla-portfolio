@@ -68,7 +68,7 @@ Color mismatch. It just looks weak, it is not a powerful visualization. The mess
 No
 
 
-## person 3
+## person 4
 This person viewed it on laptop. 
 ### Can you tell me what you think this is?
 
