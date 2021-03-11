@@ -17,7 +17,6 @@ My name is Buthayna AlMulla (she/her) and I am a MISM student enrolled in the Te
 I will add all my visualizations in this section
 
 [Final Project: part 2](/finalProjectPart2.md)
-[user testing](/UserTestingProject.md)
 
 [Final Project: part 1](/final_project_ButhaynaAlMulla.md)
 
