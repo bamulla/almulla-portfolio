@@ -1,7 +1,8 @@
 # User Testing for Project
 
 ## person 1
-note that this person viewed it on the phone so it was small
+Note that this person viewed it on the phone so it was small.
+
 This person is a young university student. 
 
 ### Can you tell me what you think this is?
@@ -26,8 +27,9 @@ The quality of the poster is bad i cannot see small words in the graphs. And fig
 
 
 ## person 2
-This person viewed it on phone
-This person is a young busy university student
+This person viewed it on phone.
+
+This person is a young busy university student.
 
 ### Can you tell me what you think this is?
 
@@ -51,6 +53,7 @@ No
 
 ## person 3
 This person viewed it on laptop. 
+
 This person is also a university student. This person hates big corporations. 
 
 ### Can you tell me what you think this is?
@@ -75,6 +78,7 @@ No
 
 ## person 4
 This person viewed it on laptop. 
+
 This person is a young university student. This person is in the class so the feedback is more to the point. This person has experience giving feedback on visualizations. 
 ### Can you tell me what you think this is?
 
