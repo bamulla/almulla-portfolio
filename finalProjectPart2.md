@@ -7,7 +7,7 @@
 
 ## User Testing
 
-[Click here to get interview script](/UserTestingProject.md)
+[Click here for the full interview scripts](/UserTestingProject.md)
 
 
 
