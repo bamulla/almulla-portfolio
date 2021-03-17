@@ -1,4 +1,6 @@
 # Final Project Part 3
+[Final Project: part 1](/final_project_ButhaynaAlMulla.md)
+[Final Project: part 2](/finalProjectPart2.md)
 
 ## [Click Here to View the Final Story and Visualizations](https://preview.shorthand.com/QIrsaFU24OsPMEeC)
 
