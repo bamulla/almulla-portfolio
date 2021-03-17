@@ -1,6 +1,7 @@
 
 # Final Project: Part 2
 [Final Project: part 1](/final_project_ButhaynaAlMulla.md)
+
 [Final Project: part 3](/finalProjectPart3.md)
 
 ## WireFraming/storyboards
