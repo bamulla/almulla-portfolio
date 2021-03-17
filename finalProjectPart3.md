@@ -1,5 +1,6 @@
 # Final Project Part 3
 
+## (Click Here to View the Final Story and Visualizations) [https://preview.shorthand.com/QIrsaFU24OsPMEeC]
 
 ## Summary
 
