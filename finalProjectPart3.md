@@ -9,7 +9,11 @@
 ### The Intended Audience
 This is intended to persuade people that minimum wage is not ethical as people cannot live off it, and that corporations can afford to pay their workers well and they have no reason not to. 
 
-While this can be used to persuade different types of people, the specific target audience would be people who love to advocate for change. 
+While this can be used to persuade different types of people, the specific target audience would be young people who love to advocate for change. 
+
+Given that my audience is young people, I made sure to minimize the text, and ensure that my story can be told using the visualizations. I also provided a link in the top right for these people to share this link in twitter. I also put up a list with all the petitions they can sign to save time. 
+
+Furthermore, I wanted the audience to be able to empathize with the struggles of minimum wage workers regardless of their financial state. So I created a visualization that can show people who have never had money problems how difficult it is to live off a minimum wage. I wanted the users to visually try to fit all the expenses within the box that represents the annual salary on minimum wage. I wanted the audience to have to pick and prioratise between different things in order to fit the box. What I hoped to achieve with that visual is empathy, as this difficult position of having to pick between food and rent is something not everyone has expereinced and can empathize with. 
 
 ### Information and Data
 As my story progressed, I have looked elsewhere for data that better told the story. The first new find is [livingwage website] (https://livingwage.mit.edu/counties/06071)which had exact data I needed as my story evolved and became more specific. This is because the story moved from being specifically about workers have a living wage, and moved away from Amazon's sustainability. 
