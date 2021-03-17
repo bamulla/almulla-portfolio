@@ -22,6 +22,8 @@ Total=10,689,600,000
 
 The data on amazon's revenue is something I had from the start, I got it from [statistica](https://www.statista.com/statistics/273963/quarterly-revenue-of-amazoncom/)
 
+The images used is from pexels, both images were free to use with no attribution required. I still attributed the images at the bottom left. 
+
 ### Overall Strategy Towards The Final Design
 The main feedback I recieved was that my story was confusing, and too broad, and not well presented. The first thing I did was narrow it down by making it focused on the living wage. This helped solved the other problems. This time, to save time, I did mini feedback sessions from friends and family throughout the design process. This is to ensure that I am on the right track. I did my best to make my story more clear and focused and I am pretty happy with how that turned out. 
 
