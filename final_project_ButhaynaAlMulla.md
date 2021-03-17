@@ -1,3 +1,8 @@
+# Final Project: Part 1
+[Final Project: part 2](/finalProjectPart2.md)
+
+[Final Project: part 3](/finalProjectPart3.md)
+
 # Is being rich ethical?
 
 ## Outline
